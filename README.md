@@ -14,3 +14,11 @@ Craetion of database ,table and managing data using DDL commands
 ![Screenshot (178)](https://github.com/user-attachments/assets/55eaaa79-6c03-47d2-875d-c397bfecf7d7)
 
 
+## Work insight
+-DDL(Data definition language) commands are used to define nad manage the structure of a database.
+-CREATE : Create new database objects,such as table ,indexes and views
+-ALTER: Modifies existing databse objects ,such as adding,changing,deleting coulmns
+-DROP:Remove existing database objects ,such as tables,views and indexes
+-TRUNCATE:Remove all data from the table while retaining the table structure
+-COMMENT:Adds an explanation to the sql code
+-RENAME:Change the name of table
