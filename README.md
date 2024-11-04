@@ -10,4 +10,5 @@ Craetion of database ,table and managing data using DDL commands
 6.Use the update command to change the name of a producat for ny row.
 7.Delete the sales_oreders table from the database.
 
-
+## Table
+![Uploading Screenshot (177).png].()
