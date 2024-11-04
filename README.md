@@ -11,4 +11,5 @@ Craetion of database ,table and managing data using DDL commands
 7.Delete the sales_oreders table from the database.
 
 ## Table
-![Uploading Screenshot (177).png].()
+![Screenshot (177)](https://github.com/user-attachments/assets/b7ef8aa0-d564-42d1-8719-1c44c3443cc6)
+
